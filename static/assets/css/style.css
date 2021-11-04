@@ -502,6 +502,7 @@ section{
     border-radius: 16rem;
     padding: 3rem 2rem;
     box-shadow: var(--box-shadow);
+    overflow:hidden;
 
 }
 .services .box-container .box:hover{
@@ -512,7 +513,7 @@ section{
     
 }
 .services .box-container .box img{
-    margin: 1rem 0;
+/*     margin: 1rem 0; */
     height: 15rem;
     border-radius: 50%;
     
