@@ -22,7 +22,7 @@ export default {
   data: () => ({
       featuresJSONData: [
           {
-              img: '~/static/assets/img/logo.png',
+              img: 'https://greatonlineservices.com/wp-content/uploads/2019/02/online-services-costly-gst-wayout.png',
               title: 'Tickets',
               desc: 'lorem ipsum dolor sit amet'
           },
@@ -32,12 +32,12 @@ export default {
         //       desc: 'lorem ipsum dolor sit amet'
         //   },
           {
-              img: '~/static/assets/img/logo.png',
+              img: 'https://www.techquintal.com/wp-content/uploads/2017/05/Best-ISP-Internet-Service-Provider.jpg',
               title: 'Payment Method',
               desc: 'lorem ipsum dolor sit amet'
           },
           {
-              img: '~/static/assets/img/logo.png',
+              img: 'https://www.moneycrashers.com/wp-content/uploads/2019/02/cheap-high-speed-internet-service-providers.jpg',
               title: 'Ticket',
               desc: 'lorem ipsum dolor sit amet'
           },
