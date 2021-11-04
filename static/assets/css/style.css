@@ -562,7 +562,7 @@ section{
     height: 10rem;
     width: 10rem;
     border-radius: 50%;
-    border: 1rem dotted aqua;
+    border: .3rem dotted aqua;
     animation: Rotate infinite 3s;
 }
 @keyframes Swing {
