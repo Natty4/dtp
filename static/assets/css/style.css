@@ -513,9 +513,8 @@ section{
     
 }
 .services .box-container .box img{
-/*     margin: 1rem 0; */
+    margin: 1rem 0;
     height: 15rem;
-    width:100%;
     border-radius: 16rem;
     
 }
