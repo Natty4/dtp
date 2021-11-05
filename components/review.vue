@@ -29,17 +29,17 @@ export default {
     data: () => ({
         customersReviewsJSONData: [
             {
-                img: '~/static/assets/img/logo.png',
+                img: 'http://www.clipartsuggest.com/images/60/smiling-people-clipart-clipart-smiling-face-of-a-XqSCCP-clipart.png',
                 username: 'john doy',
                 txt: 'lorem ipsum dolor sit consectetur'
             },
             {
-                img: '~/static/assets/img/logo.png',
+                img: 'https://clipground.com/images/smiling-girl-clipart-4.jpg',
                 username: 'zeberga',
                 txt: 'lorem ipsum dolor sit consectetur'
             },
             {
-                img: '~/static/assets/img/logo.png',
+                img: 'https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4362987.jpg',
                 username: 'tolosa',
                 txt: 'lorem ipsum dolor sit consectetur'
             },
