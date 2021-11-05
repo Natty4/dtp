@@ -40,9 +40,29 @@ import Service from '~/components/service.vue'
 
 
 export default {
-  head(){
+  meta: {
         return{
-            title: 'Home | ETicket'
+            title: 'Home | ETicket',
+        metaTags:[
+            {
+              hid: 'description',
+              name: 'description',
+              content: 'This is "DTP" of BackostTech's @Staging state'
+            },
+            {
+              name: 'author',
+              content: 'Natnael Kiflu'
+            },
+            {  name: 'keywords',
+              content: 'HTML, CSS, JavaScript, vuejs, nuxtjs, Natty, Natnael Kiflu, eticket, web, website, backos, BackosTech ethiopia, university, frontend, designe'
+            },
+            {  property: 'og:image',
+              content: '~/static/assets/img/logo.png'
+            },
+            { property: 'twitter:image'
+              content: '~/static/assets/img/logo.png'
+            }
+         ]  
         }
     },
   components: {
