@@ -42,9 +42,8 @@ import Service from '~/components/service.vue'
 export default {
    head(){
         return{
-            title: 'Home | ETicket'
-        },     
-        meta:[
+            title: 'Home | ETicket',
+            meta:[
             {
               hid: 'description',
               name: 'description',
@@ -63,7 +62,9 @@ export default {
             { property: 'twitter:image',
               content: '~/static/assets/img/logo.png'
             }
-         ]  
+         ] 
+        }     
+        
     },
   components: {
     Navbar,
