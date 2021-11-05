@@ -58,7 +58,7 @@ export default {
             {  property: 'og:image',
               content: '~/static/assets/img/logo.png'
             },
-            { property: 'twitter:image'
+            { property: 'twitter:image'.
               content: '~/static/assets/img/logo.png'
             }
          ]  
