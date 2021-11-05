@@ -20,6 +20,12 @@
                 </div>                
             </div>
         </div>
+        <p>
+           Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+           Sint molestiae quo, adipisci est amet nemo minus nam, 
+           sunt et minima animi officiis consequatur ducimus sequi 
+           dignissimos nobis numquam perspiciatis atque.
+        </p>
     </section>
 </template>
 
