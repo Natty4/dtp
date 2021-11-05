@@ -40,9 +40,11 @@ import Service from '~/components/service.vue'
 
 
 export default {
-  meta: {
-            title: 'Home | ETicket',
-        metaTags:[
+   head(){
+        return{
+            title: 'Home | ETicket'
+        },     
+        meta:[
             {
               hid: 'description',
               name: 'description',
