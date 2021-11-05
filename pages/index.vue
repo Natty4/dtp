@@ -46,7 +46,7 @@ export default {
             {
               hid: 'description',
               name: 'description',
-              content: 'This is "DTP" of BackostTech's @Staging state'
+              content: 'This is DTP of BackostTechs @Staging state'
             },
             {
               name: 'author',
