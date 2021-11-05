@@ -515,7 +515,8 @@ section{
 .services .box-container .box img{
     margin: 1rem 0;
     height: 15rem;
-    border-radius: 16rem;
+    border-top-left-radius: 16rem;
+    border-top-right-radius: 16rem;
     
 }
 .services .box-container .box h3{
