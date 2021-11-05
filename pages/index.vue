@@ -41,7 +41,6 @@ import Service from '~/components/service.vue'
 
 export default {
   meta: {
-        return{
             title: 'Home | ETicket',
         metaTags:[
             {
@@ -63,7 +62,6 @@ export default {
               content: '~/static/assets/img/logo.png'
             }
          ]  
-        }
     },
   components: {
     Navbar,
