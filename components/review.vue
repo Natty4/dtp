@@ -20,12 +20,12 @@
                 </div>                
             </div>
         </div>
-        <p>
+        <h3 style="color: white;">
            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
            Sint molestiae quo, adipisci est amet nemo minus nam, 
            sunt et minima animi officiis consequatur ducimus sequi 
            dignissimos nobis numquam perspiciatis atque.
-        </p>
+        </h3>
     </section>
 </template>
 
